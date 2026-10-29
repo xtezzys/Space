@@ -1,3 +1,2 @@
 # Space
-Знакомство с GitHub
-
+Repository for lab 
